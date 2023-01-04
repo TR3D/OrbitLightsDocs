@@ -13,7 +13,13 @@ The 'Orbit Lights' content folder should now be visible in the content browser:
 
 # Workflow
 Bring up the UI by starting the 'UI_OrbitLights' editor utility widget:
-![UE4Editor_3E83xT6tQt](https://user-images.githubusercontent.com/63724445/210608432-919d7ba1-4603-4b4e-b34e-146e48e96bfb.gif)
+![UE4Editor_GkTk8mcs0s](https://user-images.githubusercontent.com/63724445/210610047-b2ad139c-772c-4749-b465-0f531f3d143c.gif)
+
+
+![UE4Editor_ybvXxpF12h](https://user-images.githubusercontent.com/63724445/210610206-c284e30a-4f0e-422e-af58-4d0102264542.gif)
+
+
+
 
 
 # Features
