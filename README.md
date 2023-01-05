@@ -1,5 +1,5 @@
 # Overview
-This documentation should provide you an overview of intended workflow and best practices when using Orbit Ligts for Unreal.
+This documentation provides an overview of intended workflow and best practices when using Orbit Ligts for Unreal.
 ![image](https://user-images.githubusercontent.com/63724445/210605095-0167c31e-3a10-4f79-b37d-da2582401bd9.png)
 
 
@@ -15,13 +15,24 @@ The 'Orbit Lights' content folder should now be visible in the content browser:
 Bring up the UI by starting the 'UI_OrbitLights' editor utility widget:
 ![UE4Editor_GkTk8mcs0s](https://user-images.githubusercontent.com/63724445/210610047-b2ad139c-772c-4749-b465-0f531f3d143c.gif)
 
-
+In the viewport, select the actor around the lights should be placed. Click on the 'Initialize' button to set this actor as a target for the lights. The first light will be automatically created for you:
 ![UE4Editor_ybvXxpF12h](https://user-images.githubusercontent.com/63724445/210610206-c284e30a-4f0e-422e-af58-4d0102264542.gif)
 
-
-
+Start adjusting the light via the menu as needed.
+![image](https://user-images.githubusercontent.com/63724445/210875495-d66e6472-a2aa-47d5-9d24-4945eab32902.png)
 
 
 # Features
+Save preset
+![UE4Editor_JJrfYvNIn8](https://user-images.githubusercontent.com/63724445/210876488-4e9c1a73-7ff3-4801-a53d-2342e2d73ebf.gif)
+
+
+Load preset
+![UE4Editor_8mAVg22xv4](https://user-images.githubusercontent.com/63724445/210876510-c2ad9278-a53e-4d2e-820c-31597aecf195.gif)
+
+
+# Presets
+
 
 # Known Issues
+- undo/redo: some slider values don't show the changes to the actual light values. This is fixed as soon as you change the slider value again.
