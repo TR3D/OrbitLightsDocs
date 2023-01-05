@@ -21,17 +21,13 @@ In the viewport, select the actor around the lights should be placed. Click on t
 Start adjusting the light via the menu as needed.
 ![image](https://user-images.githubusercontent.com/63724445/210875495-d66e6472-a2aa-47d5-9d24-4945eab32902.png)
 
-
-# Features
-Save preset
+# Presets
+Once you found a pleasing light setup, you can store the arrangement as preset and use that for other actors. The preset files are stored inside the 'Presets' folder in the plugin folder. Keep in mind that you can't see them in the content browser!
+To save a new preset, change the preset name in the according text field and click on 'Save Preset': <br>
 ![UE4Editor_JJrfYvNIn8](https://user-images.githubusercontent.com/63724445/210876488-4e9c1a73-7ff3-4801-a53d-2342e2d73ebf.gif)
 
-
-Load preset
+To load a preset, simply select the UI entry and click on 'Load Preset': <br>
 ![UE4Editor_8mAVg22xv4](https://user-images.githubusercontent.com/63724445/210876510-c2ad9278-a53e-4d2e-820c-31597aecf195.gif)
-
-
-# Presets
 
 
 # Known Issues
