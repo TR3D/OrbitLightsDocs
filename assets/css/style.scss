@@ -86,19 +86,18 @@
   z-index: 100;
   left:0;
   top: 0px;
-  height: 60px;
+  height: 40px;
   width: 100%;
   position: static;
   background: url(../images/nav-bg.gif) #353535;
   border-top: 4px solid #434343;
-  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   
     .credits {
       font-size: 11px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
-      margin-top: -10px;
+      margin-top: 10px;
 
     &.left {
       float: left;
