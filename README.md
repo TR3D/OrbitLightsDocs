@@ -6,7 +6,11 @@ This documentation provides an overview of intended workflow and best practices 
 <br>
 
 # Installation
-After Downloading the plugin from the marketplace, add the plugin to your project. When done with that, open your project and make sure that the plugin is enabled in the plugin manager (Edit - Plugins):
+Before adding the plugin to your project, enable the built-in 'Blueprint File Utilities' plugin!
+![image](https://user-images.githubusercontent.com/63724445/211087253-e7d41009-da2c-44a3-82a6-5f0359f4ac40.png)
+
+After Downloading the plugin from the marketplace, add the plugin to your project. 
+When done with that, open your project and make sure that the plugin is enabled in the plugin manager (Edit - Plugins):
 ![image](https://user-images.githubusercontent.com/63724445/210607391-7a9ac921-1cfd-4476-847e-329b73f02705.png)
 
 The 'Orbit Lights' content folder should now be visible in the content browser:
