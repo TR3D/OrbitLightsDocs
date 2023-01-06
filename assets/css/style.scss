@@ -21,10 +21,12 @@
 
   nav {
     max-width: 650px;
+    position: fixed;
     margin: 0 auto;
     padding: 0 10px;
-    background: blue;
-    margin: 6px auto;
+    margin: 6px 50px;
+    background: #0000ff;
+    
 
     ul {
       list-style-type: none;
