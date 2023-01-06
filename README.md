@@ -2,6 +2,8 @@
 This documentation provides an overview of intended workflow and best practices when using Orbit Ligts for Unreal.
 ![image](https://user-images.githubusercontent.com/63724445/210605095-0167c31e-3a10-4f79-b37d-da2582401bd9.png)
 
+<br>
+<br>
 
 # Installation
 After Downloading the plugin from the marketplace, add the plugin to your project. When done with that, open your project and make sure that the plugin is enabled in the plugin manager (Edit - Plugins):
@@ -10,7 +12,9 @@ After Downloading the plugin from the marketplace, add the plugin to your projec
 The 'Orbit Lights' content folder should now be visible in the content browser:
 ![image](https://user-images.githubusercontent.com/63724445/210607920-f4c35f1a-d667-4948-8ae7-9a6197b68a7c.png)
 
-
+<br>
+<br>
+ 
 # Workflow
 Bring up the UI by starting the 'UI_OrbitLights' editor utility widget:
 ![UE4Editor_GkTk8mcs0s](https://user-images.githubusercontent.com/63724445/210610047-b2ad139c-772c-4749-b465-0f531f3d143c.gif)
@@ -21,6 +25,9 @@ In the viewport, select the actor around the lights should be placed. Click on t
 Start adjusting the light via the menu as needed.
 ![image](https://user-images.githubusercontent.com/63724445/210875495-d66e6472-a2aa-47d5-9d24-4945eab32902.png)
 
+<br>
+<br>
+  
 # Presets
 Once you found a pleasing light setup, you can store the arrangement as a preset and use that for other actors. The preset files are stored inside the 'Presets' folder in the plugin folder. Keep in mind that you can't see them in the content browser!
 To save a new preset, change the preset name in the according text field and click on 'Save Preset': <br>
@@ -29,6 +36,8 @@ To save a new preset, change the preset name in the according text field and cli
 To load a preset, simply select the UI entry and click on 'Load Preset': <br>
 ![UE4Editor_8mAVg22xv4](https://user-images.githubusercontent.com/63724445/210876510-c2ad9278-a53e-4d2e-820c-31597aecf195.gif)
 
+<br>
+<br>
 
 # Known Issues
 - undo/redo: some slider values don't show the changes to the actual light values. This is fixed as soon as you change the slider value again.
