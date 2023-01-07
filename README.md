@@ -6,12 +6,11 @@ This documentation provides an overview of intended workflow and best practices 
 <br>
 
 # Installation
-Before adding the plugin to your project, enable the built-in 'Blueprint File Utilities' plugin!
-![image](https://user-images.githubusercontent.com/63724445/211087253-e7d41009-da2c-44a3-82a6-5f0359f4ac40.png)
-
-After Downloading the plugin from the marketplace, add the plugin to your project. 
-When done with that, open your project and make sure that the plugin is enabled in the plugin manager (Edit - Plugins):
+Install the plugin from the marketplace and open the Unreal editor. Enable 'show plugin content' in the content browser settings.
+When done with that, make sure that the plugin is enabled in the plugin manager (Edit - Plugins):
 ![image](https://user-images.githubusercontent.com/63724445/210607391-7a9ac921-1cfd-4476-847e-329b73f02705.png)
+
+Also double check, that the 'Blueprint File Utilites' plugin is enabled!
 
 The 'Orbit Lights' content folder should now be visible in the content browser:
 ![image](https://user-images.githubusercontent.com/63724445/210607920-f4c35f1a-d667-4948-8ae7-9a6197b68a7c.png)
@@ -44,4 +43,4 @@ To load a preset, simply select the UI entry and click on 'Load Preset': <br>
 <br>
 
 # Known Issues
-- undo/redo: some slider values don't show the changes to the actual light values. This is fixed as soon as you change the slider value again.
+- undo/redo: some slider values don't reflect the changes to the actual light values. This is fixed as soon as you change the slider value again.
