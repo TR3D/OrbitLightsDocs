@@ -8,6 +8,14 @@
   position:relative;
   padding: 0 20px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color:#e8e8e8;
+  margin:0 0 30px;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+
 #header {
   z-index: 100;
   left:0;
@@ -68,6 +76,7 @@
     } 
   }
 }
+
 #footer {
   z-index: 100;
   left:0;
@@ -97,6 +106,7 @@
     }
   }
 }
+
 section {
   max-width:900px;
   padding: 30px 0px 50px 0px;
