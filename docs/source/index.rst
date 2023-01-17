@@ -6,9 +6,20 @@ Easily place and adjust lights around a target object. Great for (portfolio) ren
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
+Features:
+   add / remove lights
+   adjustable light settings
+   toggle shadow casting
+   hide, unhide or isolate light
+   adjust position (including target offset)
+   adjust light intensity
+   adjust light radius
+   adjust light width / height
+   adjust barn door angle & length
+   adjust color / temperature
+   rename light actors
+   save & load presets
+   undo/redo
 
 Contents
 --------
