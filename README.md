@@ -46,3 +46,4 @@ To load a preset, simply select the UI entry and click on 'Load Preset': <br>
 
 # Known Issues
 - undo/redo: some slider values don't reflect the changes to the actual light values. This is fixed as soon as you change the slider value again.
+- UE 5.0: Changes to the lights are just applied when the user stops dragging the sliders. In all other supported versions, the lights are updated while the slider draggin happens. 
