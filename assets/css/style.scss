@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-midnight";
 .wrapper {
-  max-width:900px;
+  max-width: 70%;
   margin:0 auto;
   position:relative;
   padding: 0 20px;
@@ -14,6 +14,10 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 30px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
+}
+
+section img {
+  max-width: 100%;
 }
 
 #header {
@@ -30,8 +34,8 @@ h1, h2, h3, h4, h5, h6 {
   nav {
     max-width: 160px;
     position: fixed;
-    left:10%;
-    margin-left: 0px;
+    left:20%;
+    margin-left: -600px;
     margin-top:20%;
     text-align: left;
     padding: 0 10px;
