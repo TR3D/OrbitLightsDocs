@@ -31,8 +31,8 @@ In the viewport, select the actor around the lights should be placed. Click on t
 
 ## Start adjusting the light
 ![sRquxKDba1](https://user-images.githubusercontent.com/63724445/213864178-68fd5728-4ba7-4745-b835-c6a979b3997b.jpg) <br>
-![image](https://user-images.githubusercontent.com/63724445/213864229-93399c7c-e134-414a-985d-8182d385e65c.png) <br>
-![image](https://user-images.githubusercontent.com/63724445/213864282-0c1d3f68-d881-4d5b-8862-735d0be17f8a.png) <br>
+![UnrealEditor_nju2323BO9s0tQ](https://user-images.githubusercontent.com/63724445/213865345-4455e19c-1451-4e60-a8aa-e5751702c3e7.gif) <br>
+![UnrealEditor_gIU7t516541XyoL8](https://user-images.githubusercontent.com/63724445/213865589-5f5582af-1931-4956-b3b0-df4b81f66b09.gif)<br>
 
 <br>
 <br>
