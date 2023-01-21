@@ -1,7 +1,7 @@
 # Overview
 Orbit Lights is an editor utility widget that lets you pick a target object and place lights around it. Quickly adjust every light's position, intensity, color, etc., in one central place - no property hunt in the details panel is needed. This is especially useful for (portfolio) renderings because you can look through the render camera and adjust every light via the widget!
 Light setups can also be stored as presets and used for different objects (to use the presets across various Unreal projects, manually duplicate the preset file and move it to the other project).<br>
-![image](https://user-images.githubusercontent.com/63724445/212989663-9e1c1c82-b397-4f2b-b690-03ec4f25ccad.png)
+![fghju657k](https://user-images.githubusercontent.com/63724445/213887822-c8e2c300-eee1-41ca-be38-e03259dece4a.jpg)
 
 <br>
 <br>
@@ -9,7 +9,7 @@ Light setups can also be stored as presets and used for different objects (to us
 # Installation
 Install the plugin from the marketplace and open the Unreal editor. 
 Double check that the 'Blueprint File Utilites' plugin is enabled!
-![image](https://user-images.githubusercontent.com/63724445/212990043-782d0773-ed1b-4edb-bd5a-05f8a32e216f.png)
+![212990043-782d0773-ed1b-4edb-bd5a-05f8a32e216f](https://user-images.githubusercontent.com/63724445/213887701-1571744f-063e-40ce-b6d8-b66035e77dc2.png)
 
 
 The 'Orbit Lights' content folder should now be visible in the content browser: <br>
