@@ -1,5 +1,7 @@
 # Overview
-This documentation provides an overview of intended workflow and best practices when using Orbit Ligts for Unreal. <br>
+Orbit Lights is an editor utility widget that lets you pick a target object and place lights around it. Quickly adjust every light's position, intensity, color, etc., in one central place - no property hunt in the details panel is needed. This is especially useful for (portfolio) renderings because you can look through the render camera and adjust every light via the widget!
+
+Light setups can also be stored as presets and used for different objects (to use the presets across various Unreal projects, manually duplicate the preset file and move it to the other project).<br>
 ![image](https://user-images.githubusercontent.com/63724445/212989663-9e1c1c82-b397-4f2b-b690-03ec4f25ccad.png)
 
 <br>
@@ -27,14 +29,16 @@ Navigate to the 'UI_OrbitLights' widget in the 'OrbitLights' folder. Right click
 In the viewport, select the actor around the lights should be placed. Click on the 'Initialize' button to set this actor as a target for the lights. The first light will be automatically created for you:
 ![UnrealEditor_G1QwnXyUeT](https://user-images.githubusercontent.com/63724445/212994516-19772094-4a24-494a-a9ec-700266e09037.gif)
 
-Start adjusting the light via the menu as needed.
-![image](https://user-images.githubusercontent.com/63724445/210875495-d66e6472-a2aa-47d5-9d24-4945eab32902.png)
+## Start adjusting the light
+![sRquxKDba1](https://user-images.githubusercontent.com/63724445/213864178-68fd5728-4ba7-4745-b835-c6a979b3997b.jpg) <br>
+![image](https://user-images.githubusercontent.com/63724445/213864229-93399c7c-e134-414a-985d-8182d385e65c.png) <br>
+![image](https://user-images.githubusercontent.com/63724445/213864282-0c1d3f68-d881-4d5b-8862-735d0be17f8a.png) <br>
 
 <br>
 <br>
   
 # Presets
-Once you found a pleasing light setup, you can store the arrangement as a preset and use that for other actors. The preset files are stored inside the 'Presets' folder in the plugin folder. Keep in mind that you can't see them in the content browser!
+Once you find a pleasing light setup, you can store the arrangement as a preset and use that for other actors. The preset files are stored inside the 'Presets' folder in the plugin folder. Keep in mind that you can't see them in the content browser!
 To save a new preset, change the preset name in the according text field and click on 'Save Preset': <br>
 ![UE4Editor_JJrfYvNIn8](https://user-images.githubusercontent.com/63724445/210876488-4e9c1a73-7ff3-4801-a53d-2342e2d73ebf.gif)
 
