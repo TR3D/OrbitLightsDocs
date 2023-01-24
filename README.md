@@ -13,7 +13,7 @@ Double check that the 'Blueprint File Utilites' plugin is enabled!
 
 
 The 'Orbit Lights' content folder should now be visible in the content browser: <br>
-![FO4KqdYIJ1](https://user-images.githubusercontent.com/63724445/212994797-cb2ff6b0-b0d0-432e-958d-3562d847917f.jpg)
+![image](https://user-images.githubusercontent.com/63724445/214223870-4c46d3d0-b391-4d98-bbe1-f95f0210e449.png)
 
 <br>
 <br>
@@ -22,7 +22,7 @@ The 'Orbit Lights' content folder should now be visible in the content browser: 
 # Workflow
 ## Bring up the UI
 Navigate to the 'UI_OrbitLights' widget in the 'OrbitLights' folder. Right click the widget and choose 'Run Editor Utility Widget'. <br>
-![image](https://user-images.githubusercontent.com/63724445/212994933-a03171ea-a8a2-422e-a3c5-3796c632152e.png)
+![image](https://user-images.githubusercontent.com/63724445/214224104-627c60f4-22fc-4f00-8b05-6b7681ddb517.png)
 
 ## Choose a target actor and add the first light
 In the viewport, select the actor around the lights should be placed. Click on the 'Initialize' button to set this actor as a target for the lights. The first light will be automatically created for you:
